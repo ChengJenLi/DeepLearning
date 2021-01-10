@@ -4,7 +4,9 @@
 
 ## App Inventor2 <a id="app-inventor"></a>
 
-* [App Inventor 2](app-inventor/gai-shu.md)
+* [App Inventor 2](app-inventor/gai-shu/README.md)
+  * [配對猜猜](app-inventor/gai-shu/pei-dui-cai-cai.md)
+  * [電子計算機](app-inventor/gai-shu/dian-zi-ji-suan-ji.md)
 
 ## Python\(@ Google Colab\) <a id="python-google-colab-1"></a>
 
