@@ -1,10 +1,11 @@
 ---
-description: Dart程式語言
+description: >-
+  Dart程式語言是一種新的程式語言，Dart是一種適用於全球資訊網的開放原始碼程式語言，由Google主導開發，目標在於成為下一代結構化Web開發語言。類似JavaScript，Dart也是一種物件導向語言，但是它採用類別為基礎的程式設計。它只允許單一繼承，語法風格接近C語言。
 ---
 
-# Flutter簡介
+# Dart簡介
 
-Dart是Flutter的程式語言，Flutter由Google提供的UI工具包，能建立移動設備、電腦及伺服器、Web等應用程式。以Dart編譯成原生的本機代碼或JavaScript。在安裝之前，不妨試試[Dart的線上編譯器](https://dartpad.dev/?)，可以迅速的測試簡單語法。
+在介紹Dart之前，大部分的人都先聽到Flutter，Flutter也是由Google所提供，將大部分的元件完成，因此只要引用Flutter，Dart就能迅速的建立移動設備、電腦及伺服器、Web等應用程式。並以Dart編譯成原生的本機代碼或JavaScript。在安裝之前，不妨試試[Dart的線上編譯器](https://dartpad.dev/?)，可以迅速的測試簡單語法。
 
 ### 就從Hello World開始吧！
 
